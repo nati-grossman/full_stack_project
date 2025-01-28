@@ -30,7 +30,7 @@ npm start
 
 Here’s a preview of what the project looks like:
 
-![Project Screenshot](./images/screenshot.png)
+![Project Screenshot](./my-react-project/public/images/screenshot.png)
 
 
 
