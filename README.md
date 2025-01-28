@@ -11,7 +11,7 @@ The goal of this project is to provide a fundamental starting point for develope
 
 ## Step 1: Clone the Repository
 ``` 
-git clone https://your-repository-url.git
+git clone https://github.com/nati-grossman/full_stack_project.git
 ```
 
 ## Step 2: Run the API (Backend)
